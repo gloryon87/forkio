@@ -28,4 +28,3 @@
 9. browser-sync
 
 The project uses BEM methodology
-
